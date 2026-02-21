@@ -1,9 +1,9 @@
 {
-    "name": "the",
-    "description": "theme for valac part 2",
+    "name": "loopdaloop",
+    "description": "theme for loopsie",
     "authors": [
         {
-            "name": "boo"
+            "name": "knil"
         }
     ],
     "semanticColors": {
@@ -184,7 +184,7 @@
     },
 	 "background": {
     "blur": 1,
-    "url": "https://github.com/hauntertea/boo-who/blob/main/Untitled1151_20250429205902.png?raw=true",
+    "url": "https://raw.githubusercontent.com/knilisgreat/uhh-discord-theme/refs/heads/main/sketch-1771706281233.png",
     "alpha": 0.46
   },
     "spec": 2,
